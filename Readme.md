@@ -39,9 +39,17 @@ or
 npm install
 ```
 
+## Test device communication
+
+```
+yarn test-connect
+or
+npm run test-connect
+```
+
 ## Acknowledgments
 
-Thanks to [Volodymyr Shymanskyy](https://github.com/vshymanskyy) for create this amazing repo about xiaomi mi band 2 hack in javascript [github repo](https://github.com/vshymanskyy/miband-js).
+Thanks to [Volodymyr Shymanskyy](https://github.com/vshymanskyy) for create [this amazing repo](https://github.com/vshymanskyy/miband-js) about xiaomi mi band 2 hack in javascript .
 
 ## License
 The MIT License (MIT) 2018.
