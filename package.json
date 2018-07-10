@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test-connect":"node ./test/test.js",
+    "test-connect":"node ./test-device/test.js",
     "keyboard": "node ./keyboard/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
