@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "miband": "^0.1.3",
-    "node-notifier": "^5.2.1",
+    "node-notifier": "^8.0.1",
     "robotjs": "^0.5.1"
   },
   "devDependencies": {},
